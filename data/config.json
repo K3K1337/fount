@@ -1,0 +1,14 @@
+{
+	"port": 8931,
+	"data": {
+		"users": {
+			"K3K": {
+				"username": "K3K",
+				"password": "$2b$10$3XLLfzLAowpoNqchPmtp5OKvqqRUeKJ/K44pXcBRZr823q5iNT3rK",
+				"loginAttempts": 0,
+				"lockedUntil": null
+			}
+		}
+	},
+	"secretKey": "tyb6l24q8jn"
+}
